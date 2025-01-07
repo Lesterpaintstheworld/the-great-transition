@@ -4,13 +4,13 @@ James Chen's wrist vibrated with another UBC price alert. He ignored the notific
 
 "You're not even going to check it?" Marcus asked, his own cup still wrapped in both hands like a shield. "Must be nice when numbers that big become boring."
 
-"It's not about the numbers." He leaned forward, his casual posture betraying the $3,000 jacket he'd tried to downplay with faded jeans. "Look, I know you think I'm just another crypto bro who got lucky, but this is different. Universal Basic Compute isn't just another tech investment—it's the foundation for all AI infrastructure. Every machine learning model, every automated system runs on UBC's network. I can help you position—"
+"It's not about the numbers." He leaned forward, his casual posture betraying the $3,000 jacket he'd tried to downplay with faded jeans. "Look, I know what you're thinking, but this is different. UBC—Universal Basic Compute—it's the foundation for everything now. Every AI system, every automated process depends on their network. I can help you position—"
 
 "Position myself?" Marcus's laugh carried no humor. "Like you helped Steve 'position himself' right out of his consulting business? Or Jenny's whole accounting department?"
 
 The words hit James like a physical blow. He'd been right about Universal Basic Compute's impact—devastatingly right. Every investment he'd made in the new AI infrastructure had paid off exactly as he'd predicted. He just hadn't expected being right to hurt so much.
 
-His smartwatch pulsed again. This time, it wasn't a price alert but a message from his sister: 'They're installing the new teaching documentation system next week. Can we talk?'
+His wrist device lit up with a new message from his sister: 'They're installing the new teaching documentation system next week. Can we talk?'
 
 He looked up at his friend of twenty years, then down at the message that meant his sister was next. The coffee between them had gone completely cold.
 
@@ -20,7 +20,7 @@ Reaching for his wallet, he paused as Marcus waved him off before he could grab 
 
 The bitterness in his friend's voice made James's chest tighten. He'd spent the last three years trying to warn everyone about the coming changes, trying to help them prepare. But preparation looked a lot like betrayal when you were the one profiting from other people's losses.
 
-The familiar tingle at his wrist drew his eyes downward – another 8% jump in UBC's value. The same technology that was making him wealthy was also making his sister's teaching career precarious and would soon render Marcus's coding philosophy obsolete. The math was elegant, ruthless, and undeniable: human labor was becoming a rounding error in the universal computation equation.
+Another alert lit up his wrist – UBC up another 8%. The same technology filling his accounts was erasing his sister's teaching career and threatening Marcus's coding work. The equation was brutal in its simplicity: human labor was becoming a rounding error in the age of universal computation.
 
 "Look," James leaned forward, lowering his voice though the coffee shop was nearly empty. "What if we set up a transition fund? I've been working on a model that could—"
 
