@@ -13,3 +13,23 @@ The words hit James like a physical blow. He'd been right about Universal Basic 
 His phone buzzed again. This time, it wasn't a price alert but a message from his sister: 'They're installing the new teaching documentation system next week. Can we talk?'
 
 James looked up at his friend of twenty years, then down at the message that meant his sister was next. The coffee between them had gone completely cold.
+
+James pulled out his wallet, though Marcus waved him off before he could reach for a bill. Fifteen years of Thursday coffees, and this was the first time Marcus had refused to let him pay.
+
+"I can still afford my own coffee," Marcus said, finally releasing his death grip on the cup. "For now, anyway."
+
+The bitterness in his friend's voice made James's chest tighten. He'd spent the last three years trying to warn everyone about the coming changes, trying to help them prepare. But preparation looked a lot like betrayal when you were the one profiting from other people's losses.
+
+His phone buzzed again. This time he glanced down – another 8% jump in UBC's value. The same technology that was making him wealthy was also making his sister's teaching career precarious and would soon render Marcus's coding philosophy obsolete. The math was elegant, ruthless, and undeniable: human labor was becoming a rounding error in the universal computation equation.
+
+"Look," James leaned forward, lowering his voice though the coffee shop was nearly empty. "What if we set up a transition fund? I've been working on a model that could—"
+
+"Jesus, James." Marcus pushed his chair back. "Not everything needs to be an investment opportunity. Sometimes people just need time to figure things out without someone trying to profit from their struggle."
+
+"That's not what I—"
+
+"Save it for your clients." Marcus stood, shouldering his bag. "Some of us still believe in building things with our own hands, even if we're the last ones doing it."
+
+James watched his friend walk away, leaving the untouched coffee behind. He pulled out his phone again, this time opening his sister's message. His thumb hovered over the reply button as another price alert came in.
+
+The future was arriving exactly as he'd predicted. He just hadn't expected it to cost him quite so much.
