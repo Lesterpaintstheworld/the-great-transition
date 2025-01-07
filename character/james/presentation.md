@@ -1,5 +1,5 @@
 # James Chen
-Early UBC (Universal Basic Crypto) investor and reluctant catalyst
+Early UBC (Universal Basic Compute) investor and reluctant catalyst
 
 ## Core Traits
 - Age: 34
@@ -12,7 +12,7 @@ Early UBC (Universal Basic Crypto) investor and reluctant catalyst
 - Grew up in a middle-class immigrant family that emphasized education and financial security
 - Graduated with Economics degree during the 2008 financial crisis
 - Spent 5 years in traditional finance before moving to crypto/blockchain
-- Made his first million at 29 through early UBC investments
+- Made his first million at 29 through early Universal Basic Compute investments
 - Maintains close ties with working-class childhood friends and family
 
 ## Current Situation
