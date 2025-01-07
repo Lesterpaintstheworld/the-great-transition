@@ -51,3 +51,37 @@ James knew that phrase. He'd seen it in UBC's quarterly reports, right before en
 "Don't." She held up a hand. "I watched you try this with Marcus. I don't need an investment strategy, James. I need my brother to understand that not everything broken can be fixed with money."
 
 The same words, different voice. James felt the weight of his phone in his pocket, another alert vibrating against his hip. Success had never felt so much like failure.
+
+Amy turned back to her monitors, fingers hovering over the keyboard. "You know what Jenny Torres asked me yesterday? If I could record myself reading her favorite book one last time before I leave. She's in seventh grade, James. She shouldn't have to worry about her teacher being replaced by a recording."
+
+James moved closer, glancing at the screens. Student engagement metrics, lesson effectiveness scores, behavioral pattern analysis—it was all there, being quantified and optimized. Just like every other industry he'd watched transform.
+
+"You're not being replaced," he said, the lie bitter on his tongue. "This is about enhancement, not replacement. The AI will handle the routine stuff, letting you focus on—"
+
+"On what?" Amy spun her chair around. "On being a human interface for an AI teaching system? On watching everything I've learned in fifteen years get turned into training data? Tell me, brother, what exactly should I focus on?"
+
+The familiar pressure built in his chest—the same feeling he'd had watching Marcus walk away. James reached for his phone instinctively, then stopped himself. Numbers couldn't solve this problem.
+
+"Remember when Dad lost his accounting job?" he said quietly. "How he kept saying he just needed time to figure things out?"
+
+Amy's expression softened slightly. "He never did go back to accounting."
+
+"No. He found something different. Something better." James pulled up a chair, sitting at eye level with his sister. "The hardware store job with Wei's father. It wasn't what he planned, but—"
+
+"But he adapted. Is that your point? That I should just accept this and find my own hardware store?" Amy's voice cracked slightly. "I love teaching, James. Not managing teaching systems or optimizing learning algorithms. Actually teaching."
+
+Another alert buzzed in his pocket. James ignored it, watching his sister turn back to the screens, her reflection fractured across three displays. Behind her, student artwork covered the walls—hand-drawn pictures gradually giving way to AI-generated images as the years progressed.
+
+"What if," he started carefully, "what if we looked at this differently? Not as an ending, but as a—"
+
+"Please don't say opportunity." Amy's shoulders slumped. "I get enough corporate doublespeak from the administration. I just wanted my brother today, not the investor."
+
+The words hung between them, heavy with truth. James stood slowly, his expensive jacket suddenly feeling like a costume he'd outgrown.
+
+"You're right," he said. "I'm sorry. What do you need from your brother?"
+
+Amy was quiet for a long moment, staring at the screens that would soon know her job better than she did. "I need you to just listen. No solutions. No investments. No optimistic spin about the future. Can you do that?"
+
+James pulled his phone out, turned it off completely for the first time in years, and set it face-down on the desk.
+
+"I'm listening."
