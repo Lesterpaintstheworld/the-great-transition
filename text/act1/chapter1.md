@@ -34,7 +34,7 @@ James watched his friend walk away, leaving the untouched coffee behind. He pull
 
 The future was arriving exactly as he'd predicted. He just hadn't expected it to cost him quite so much.
 
-The walk to his sister Amy's school took longer than usual. James found himself stopping at every intersection, checking his phone, then putting it away without responding to her message. The UBC alerts kept coming, each one making the knot in his stomach tighter.
+The walk to Amy's school took longer than usual. He found himself stopping at every intersection, checking his phone, then putting it away without responding to her message. The UBC alerts kept coming, each one making the knot in his stomach tighter.
 
 Quincy High looked exactly as it had when they'd both been students here, except for the new security scanner at the entrance. The guard recognized him—probably from the donor wall—and waved him through without checking ID.
 
