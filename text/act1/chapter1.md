@@ -109,3 +109,37 @@ James remembered. He also remembered using those same failed predictions to info
 "The hardware store saved him," Amy continued. "Not because it was better than accounting, but because Wei's father saw him as a person, not a skill set to be optimized." She turned back to her brother. "But there aren't enough hardware stores in the world for all of us, are there?"
 
 The question hung in the air between them, heavier than any market analysis James had ever written. For the first time since his investments had started paying off, he found himself without a ready answer.
+
+A bell rang in the distance, and Amy straightened in her chair, muscle memory taking over. "I have a class coming in ten minutes."
+
+James watched as she began organizing the papers on her desk, her movements precise and practiced. Every gesture part of a routine that would soon be optimized out of existence. He thought about Marcus at the coffee shop, about his father at the hardware store, about all the patterns he'd learned to recognize in market data but had somehow missed in the people closest to him.
+
+"You know," he said carefully, "Wei's son is taking over the store next month."
+
+Amy paused in her organizing. "Kevin? I thought he was doing some tech startup."
+
+"He is. That's why he's taking over." James leaned forward, speaking softly as if sharing a secret. "He's turning it into something new. Not just hardware—more like a hub for repair workers, craftspeople. Using AI to coordinate but keeping the human touch Wei's father always talked about."
+
+"James, I said no solutions—"
+
+"No, this isn't—" He stopped, took a breath. "I'm not trying to fix anything. I'm just... listening to what you said. About being human together. Maybe that's what we should be investing in."
+
+Amy studied him for a long moment, then reached for his phone on the desk. She handed it to him, but didn't let go when he took it. "Promise me something?"
+
+"Anything."
+
+"Next time UBC's price jumps, before you check your portfolio, call me first. Just to talk. About anything except money."
+
+James wrapped his fingers around the phone, feeling its weight differently now. "I promise."
+
+As he stood to leave, Amy called after him. "Hey, big shot investor?"
+
+He turned at the door. "Yeah?"
+
+"Thanks for listening." She smiled, a real one this time. "Even if you couldn't help trying to fix things at the end."
+
+James smiled back, thinking of all the alerts waiting on his phone. "Baby steps, sis. Baby steps."
+
+Walking back through the courtyard, James pulled out his phone but didn't turn it on. Instead, he watched the students passing by, wondering which of them would adapt, which would resist, and which might find entirely new ways of being human in the world he was helping to create.
+
+He had another meeting in an hour with potential investors, eager to hear his predictions about the next wave of AI automation. For the first time, he wasn't sure what he would tell them.
