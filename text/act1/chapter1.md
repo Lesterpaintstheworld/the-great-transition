@@ -85,3 +85,27 @@ Amy was quiet for a long moment, staring at the screens that would soon know her
 James pulled his phone out, turned it off completely for the first time in years, and set it face-down on the desk.
 
 "I'm listening."
+
+Amy's hands twisted in her lap, a nervous habit she'd had since childhood. "Yesterday, I had to document my method for handling student anxiety. Not just the protocol—they wanted every detail. How I adjust my voice, my exact phrases, even my body language. Fifteen years of learning how to help scared kids, all reduced to data points."
+
+James stayed silent, fighting the urge to reach for his phone, to check the markets, to do anything but sit with this uncomfortable truth.
+
+"You know what the worst part is?" Amy continued, gesturing at one of the monitors. "The system's already better at spotting struggling students than I am. It catches micro-expressions I miss, patterns I can't see. Last week it flagged Michael Chen—no relation—" she added with a wan smile, "for intervention before I even noticed something was wrong. And it was right."
+
+"That's not necessarily—"
+
+"I said no solutions," Amy cut him off, but her voice was gentle. "Just listen."
+
+James nodded, folding his hands in his lap to mirror hers.
+
+"I used to think teaching was about knowledge transfer. Facts, figures, formulas. But it's not. It's about being human together. It's about showing kids that growth is messy and beautiful and sometimes painful." She looked up at the student artwork on the walls. "See that terrible dragon drawing? Tommy spent weeks on it. The AI could have generated something perfect in seconds, but that's not the point. The point was watching him try and fail and try again."
+
+Through the classroom window, James could see students crossing the courtyard, heads down, phones out. The same technology that was making him rich was reshaping their world in ways even he couldn't fully predict.
+
+"I keep thinking about Dad," Amy said softly. "About how lost he was after the accounting firm let him go. Remember how he used to say computers could never replace the human element of bookkeeping?"
+
+James remembered. He also remembered using those same failed predictions to inform his first UBC investments.
+
+"The hardware store saved him," Amy continued. "Not because it was better than accounting, but because Wei's father saw him as a person, not a skill set to be optimized." She turned back to her brother. "But there aren't enough hardware stores in the world for all of us, are there?"
+
+The question hung in the air between them, heavier than any market analysis James had ever written. For the first time since his investments had started paying off, he found himself without a ready answer.
