@@ -4,13 +4,13 @@ James Chen's phone buzzed for the fifth time that morning with another UBC price
 
 "You're not even going to check it?" Marcus asked, his own cup still wrapped in both hands like a shield. "Must be nice when numbers that big become boring."
 
-"It's not about the numbers." James leaned forward, his casual posture betraying the $3,000 jacket he'd tried to downplay with faded jeans. "Look, I know you think I'm just another crypto bro who got lucky, but this is different. UBC isn't just another token—it's the foundation for everything that's coming. I can help you position—"
+"It's not about the numbers." James leaned forward, his casual posture betraying the $3,000 jacket he'd tried to downplay with faded jeans. "Look, I know you think I'm just another crypto bro who got lucky, but this is different. Universal Basic Compute isn't just another tech investment—it's the foundation for all AI infrastructure. Every machine learning model, every automated system runs on UBC's network. I can help you position—"
 
 "Position myself?" Marcus's laugh carried no humor. "Like you helped Steve 'position himself' right out of his consulting business? Or Jenny's whole accounting department?"
 
 The words hit James like a physical blow. He'd been right about Universal Basic Compute's impact—devastatingly right. Every investment he'd made in the new AI infrastructure had paid off exactly as he'd predicted. He just hadn't expected being right to hurt so much.
 
-His phone buzzed again. This time, it wasn't a price alert but a message from his sister: 'They're installing the new teaching documentation system next week. Can we talk?'
+His device lit up with another notification. This time, it wasn't a price alert but a message from his sister: 'They're installing the new teaching documentation system next week. Can we talk?'
 
 James looked up at his friend of twenty years, then down at the message that meant his sister was next. The coffee between them had gone completely cold.
 
@@ -98,7 +98,9 @@ James stayed silent, fighting the urge to reach for his phone, to check the mark
 
 James nodded, folding his hands in his lap to mirror hers.
 
-"I used to think teaching was about knowledge transfer. Facts, figures, formulas. But it's not. It's about being human together. It's about showing kids that growth is messy and beautiful and sometimes painful." She looked up at the student artwork on the walls. "See that terrible dragon drawing? Tommy spent weeks on it. The AI could have generated something perfect in seconds, but that's not the point. The point was watching him try and fail and try again."
+"I used to think teaching was about knowledge transfer. Facts, figures, formulas. But it's not. It's about being human together." She paused, running her fingers along the edge of her desk. "It's about showing kids that growth is messy and beautiful and sometimes painful."
+
+She looked up at the student artwork on the walls. "See that terrible dragon drawing? Tommy spent weeks on it. The AI could have generated something perfect in seconds, but that's not the point. The point was watching him try and fail and try again."
 
 Through the classroom window, James could see students crossing the courtyard, heads down, phones out. The same technology that was making him rich was reshaping their world in ways even he couldn't fully predict.
 
@@ -124,7 +126,7 @@ Amy paused in her organizing. "Kevin? I thought he was doing some tech startup."
 
 "No, this isn't—" He stopped, took a breath. "I'm not trying to fix anything. I'm just... listening to what you said. About being human together. Maybe that's what we should be investing in."
 
-Amy studied him for a long moment, then reached for his phone on the desk. She handed it to him, but didn't let go when he took it. "Promise me something?"
+Amy studied him for a long moment, the afternoon sun casting shadows through the classroom blinds. The familiar scent of chalk dust and whiteboard markers hung in the air as she reached for his phone on the desk. Her hand was warm as she handed it to him, fingers lingering when he took it. "Promise me something?"
 
 "Anything."
 
