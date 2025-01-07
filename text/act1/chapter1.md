@@ -33,3 +33,21 @@ His phone buzzed again. This time he glanced down – another 8% jump in UBC's v
 James watched his friend walk away, leaving the untouched coffee behind. He pulled out his phone again, this time opening his sister's message. His thumb hovered over the reply button as another price alert came in.
 
 The future was arriving exactly as he'd predicted. He just hadn't expected it to cost him quite so much.
+
+The walk to his sister Amy's school took longer than usual. James found himself stopping at every intersection, checking his phone, then putting it away without responding to her message. The UBC alerts kept coming, each one making the knot in his stomach tighter.
+
+Quincy High looked exactly as it had when they'd both been students here, except for the new security scanner at the entrance. The guard recognized him—probably from the donor wall—and waved him through without checking ID.
+
+He found Amy in her classroom, surrounded by stacks of papers and three monitors displaying student data. Her normally neat ponytail was coming undone, loose strands falling across her face as she hunched over her keyboard.
+
+"You could have texted back," she said without looking up.
+
+"Thought this needed to be in person." James leaned against a desk, taking in the organized chaos of her workspace. "How bad is it?"
+
+Amy finally turned to face him, dark circles under her eyes matching his own. "They're calling it a 'Teaching Documentation Initiative.' Like they're doing us a favor." She gestured at the monitors. "Every lesson, every interaction, every technique we use—all getting fed into their system. They say it's to 'preserve best practices.'"
+
+James knew that phrase. He'd seen it in UBC's quarterly reports, right before entire departments disappeared. "Amy, I can help. There are programs, transition funds—"
+
+"Don't." She held up a hand. "I watched you try this with Marcus. I don't need an investment strategy, James. I need my brother to understand that not everything broken can be fixed with money."
+
+The same words, different voice. James felt the weight of his phone in his pocket, another alert vibrating against his hip. Success had never felt so much like failure.
