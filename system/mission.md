@@ -1,4 +1,4 @@
-# Mission: "The Last Skills" - Character-Focused Novel Creation
+# Mission: "The Great Transition" - Character-Focused Novel Creation
 
 ## Core Objective
 Create a compelling, emotionally resonant novel about human adaptation to AI economic transformation through deep, character-driven storytelling. Each character's story will be developed independently before being woven together into a cohesive narrative.

@@ -1,4 +1,4 @@
-"The Last Job"
+"The Great Transition"
 
 In late 2024, as artificial intelligence begins reshaping the global economy, five people in the same city find themselves on different sides of a technological gold rush that's making some people wealthy while leaving others behind.
 
@@ -14,4 +14,4 @@ James, an early UBC investor profiting handsomely from the transition, tries to 
 
 As their stories interweave, each character comes to realize they're not just adapting to a new technology – they're participating in a fundamental restructuring of human society. Their individual choices, from Marcus's resistance to Lisa's adaptation to James's investment, ripple outward to influence not just their own survival, but the shape of humanity's economic future.
 
-The story culminates as these different approaches to survival collide, forcing each character to question whether they're building a bridge to the future or burning the ones behind them. In the end, "The Last Job" is not just about the end of traditional work – it's about the hard choices people make when their world stops making sense.
+The story culminates as these different approaches to survival collide, forcing each character to question whether they're building a bridge to the future or burning the ones behind them. In the end, "The Great Transition" is not just about the end of traditional work – it's about the hard choices people make when their world stops making sense.
