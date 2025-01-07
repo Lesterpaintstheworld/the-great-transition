@@ -20,7 +20,7 @@ James pulled out his wallet, though Marcus waved him off before he could reach f
 
 The bitterness in his friend's voice made James's chest tighten. He'd spent the last three years trying to warn everyone about the coming changes, trying to help them prepare. But preparation looked a lot like betrayal when you were the one profiting from other people's losses.
 
-His phone buzzed again. This time he glanced down – another 8% jump in UBC's value. The same technology that was making him wealthy was also making his sister's teaching career precarious and would soon render Marcus's coding philosophy obsolete. The math was elegant, ruthless, and undeniable: human labor was becoming a rounding error in the universal computation equation.
+The familiar tingle at his wrist drew his eyes downward – another 8% jump in UBC's value. The same technology that was making him wealthy was also making his sister's teaching career precarious and would soon render Marcus's coding philosophy obsolete. The math was elegant, ruthless, and undeniable: human labor was becoming a rounding error in the universal computation equation.
 
 "Look," James leaned forward, lowering his voice though the coffee shop was nearly empty. "What if we set up a transition fund? I've been working on a model that could—"
 
