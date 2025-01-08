@@ -1,0 +1,107 @@
+2025-01-07 12:17:35,107 - INFO - Log file created at: C:\Users\conta\KinOS_missions\the-great-transition\AI_Assistant.log
+2025-01-07 12:17:35,132 - DEBUG - CoInitializeEx(None, 2)
+2025-01-07 12:17:35,181 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-01-07 12:17:35,181 - INFO - Using writeable comtypes cache directory: 'C:\Python312\Lib\site-packages\comtypes\gen'
+2025-01-07 12:17:35,289 - DEBUG - SAPI.SPVoice -> {96749377-3391-11D2-9EE3-00C04F797396}
+2025-01-07 12:17:35,289 - DEBUG - CoCreateInstance({96749377-3391-11D2-9EE3-00C04F797396}, clsctx=None, interface=None)
+2025-01-07 12:17:35,297 - DEBUG - GetBestInterface(<POINTER(IUnknown) ptr=0x1eb19e752b0 at 1eb1a8b9fd0>)
+2025-01-07 12:17:35,297 - DEBUG - Does implement IProvideClassInfo
+2025-01-07 12:17:35,297 - DEBUG - Default interface is {269316D8-57BD-11D2-9EEE-00C04F797396}
+2025-01-07 12:17:35,297 - DEBUG - Release <POINTER(IUnknown) ptr=0x1eb19e752f0 at 1eb1a8ba450>
+2025-01-07 12:17:35,304 - DEBUG - GetModule(TLIBATTR(GUID={C866CA3A-32F7-11D2-9602-00C04F8EE628}, Version=5.4, LCID=0, FLags=0x8))
+2025-01-07 12:17:35,304 - DEBUG - Implements default interface from typeinfo <class 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4.ISpeechVoice'>
+2025-01-07 12:17:35,304 - DEBUG - Final result is <POINTER(ISpeechVoice) ptr=0x1eb19e752f0 at 1eb1a8ba350>
+2025-01-07 12:17:35,304 - DEBUG - Release <POINTER(IProvideClassInfo) ptr=0x1eb19e75310 at 1eb1a8ba050>
+2025-01-07 12:17:35,304 - DEBUG - Release <POINTER(ITypeInfo) ptr=0x1eb18d522c8 at 1eb1a8ba0d0>
+2025-01-07 12:17:35,304 - DEBUG - Release <POINTER(ITypeInfo) ptr=0x1eb18d52320 at 1eb1a8ba1d0>
+2025-01-07 12:17:35,304 - DEBUG - Release <POINTER(ITypeLib) ptr=0x1eb18c60370 at 1eb1a8ba450>
+2025-01-07 12:17:35,304 - DEBUG - Release <POINTER(IUnknown) ptr=0x1eb19e752b0 at 1eb1a8b9fd0>
+2025-01-07 12:17:35,307 - DEBUG - <POINTER(ISpeechVoice) ptr=0x1eb19e752f0 at 1eb1a8ba350> using sinkinterface from clsid <class 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4._ISpeechVoiceEvents'>
+2025-01-07 12:17:35,307 - DEBUG - Release <POINTER(IProvideClassInfo2) ptr=0x1eb19e75310 at 1eb1a8b9fd0>
+2025-01-07 12:17:35,308 - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001EB1A477020>: _ISpeechVoiceEvents.VoiceChange not implemented
+2025-01-07 12:17:35,308 - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001EB1A477020>: _ISpeechVoiceEvents.Bookmark not implemented
+2025-01-07 12:17:35,308 - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001EB1A477020>: _ISpeechVoiceEvents.Word not implemented
+2025-01-07 12:17:35,308 - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001EB1A477020>: _ISpeechVoiceEvents.Sentence not implemented
+2025-01-07 12:17:35,308 - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001EB1A477020>: _ISpeechVoiceEvents.Phoneme not implemented
+2025-01-07 12:17:35,308 - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001EB1A477020>: _ISpeechVoiceEvents.Viseme not implemented
+2025-01-07 12:17:35,308 - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001EB1A477020>: _ISpeechVoiceEvents.AudioLevel not implemented
+2025-01-07 12:17:35,308 - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001EB1A477020>: _ISpeechVoiceEvents.EnginePrivate not implemented
+2025-01-07 12:17:35,310 - DEBUG - Start advise <class 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4._ISpeechVoiceEvents'>
+2025-01-07 12:17:35,310 - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001EB1A477020>.QueryInterface({A372ACD1-3BEF-4BBD-8FFB-CB3E2B416AF8}) -> S_OK
+2025-01-07 12:17:35,310 - DEBUG - 1 active COM objects: Added   <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001EB1A477020>
+2025-01-07 12:17:35,310 - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001EB1A477020>.AddRef() -> 1
+2025-01-07 12:17:35,314 - DEBUG - Release <POINTER(IConnectionPointContainer) ptr=0x1eb19e75318 at 1eb1a8bb6d0>
+2025-01-07 12:17:35,373 - DEBUG - wrap_outparam(<POINTER(ISpeechObjectToken) ptr=0x1eb65afc4f0 at 1eb1a8bb6d0>)
+2025-01-07 12:17:35,373 - DEBUG - Release <POINTER(ISpeechObjectToken) ptr=0x1eb65afc4f0 at 1eb1a8bb6d0>
+2025-01-07 12:17:35,373 - DEBUG - wrap_outparam(<POINTER(ISpeechObjectTokens) ptr=0x1eb1c8cdde0 at 1eb1a8bb6d0>)
+2025-01-07 12:17:35,373 - DEBUG - Release <POINTER(IUnknown) ptr=0x1eb1c993240 at 1eb1a8bb850>
+2025-01-07 12:17:35,373 - DEBUG - wrap_outparam(<POINTER(IDispatch) ptr=0x1eb19f57b70 at 1eb1a8bb950>)
+2025-01-07 12:17:35,373 - DEBUG - GetBestInterface(<POINTER(IDispatch) ptr=0x1eb19f57b70 at 1eb1a8bb950>)
+2025-01-07 12:17:35,373 - DEBUG - Does NOT implement IProvideClassInfo, trying IProvideClassInfo2
+2025-01-07 12:17:35,373 - DEBUG - Does NOT implement IProvideClassInfo/IProvideClassInfo2
+2025-01-07 12:17:35,373 - DEBUG - Release <POINTER(IUnknown) ptr=0x1eb18d523d0 at 1eb1a8bbad0>
+2025-01-07 12:17:35,373 - DEBUG - Default interface is {C74A3ADC-B727-4500-A84A-B526721C8B8C}
+2025-01-07 12:17:35,373 - DEBUG - Release <POINTER(IUnknown) ptr=0x1eb19f57b70 at 1eb1a8bbcd0>
+2025-01-07 12:17:35,379 - DEBUG - GetModule(TLIBATTR(GUID={C866CA3A-32F7-11D2-9602-00C04F8EE628}, Version=5.4, LCID=0, FLags=0x8))
+2025-01-07 12:17:35,380 - DEBUG - Implements default interface from typeinfo <class 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4.ISpeechObjectToken'>
+2025-01-07 12:17:35,380 - DEBUG - Final result is <POINTER(ISpeechObjectToken) ptr=0x1eb19f57b70 at 1eb1a8bbad0>
+2025-01-07 12:17:35,380 - DEBUG - Release <POINTER(IDispatch) ptr=0x1eb19f57b70 at 1eb1a8bbbd0>
+2025-01-07 12:17:35,380 - DEBUG - Release <POINTER(ITypeInfo) ptr=0x1eb18d523d0 at 1eb1a8bbc50>
+2025-01-07 12:17:35,380 - DEBUG - Release <POINTER(ITypeLib) ptr=0x1eb18c60370 at 1eb1a8bbcd0>
+2025-01-07 12:17:35,380 - DEBUG - Release <POINTER(IDispatch) ptr=0x1eb19f57b70 at 1eb1a8bb950>
+2025-01-07 12:17:35,380 - DEBUG - Release <POINTER(IEnumVARIANT) ptr=0x1eb1c993240 at 1eb1a8bb7d0>
+2025-01-07 12:17:35,380 - DEBUG - Release <POINTER(ISpeechObjectTokens) ptr=0x1eb1c8cdde0 at 1eb1a8bb6d0>
+2025-01-07 12:17:35,380 - DEBUG - Release <POINTER(ISpeechObjectToken) ptr=0x1eb19f57b70 at 1eb1a8bbad0>
+2025-01-07 12:17:35,472 - INFO - Creating UI elements for first time
+2025-01-07 12:17:36,171 - INFO - Scanning for working audio input devices...
+2025-01-07 12:17:36,179 - INFO - Default input device: Microphone sur casque (Jabra EV
+2025-01-07 12:17:36,380 - INFO - Default device working
+2025-01-07 12:17:36,579 - INFO - Found working device: Mappeur de sons Microsoft - Input
+2025-01-07 12:17:36,666 - INFO - Found working device: Mixage stéréo (Realtek(R) Audio
+2025-01-07 12:17:36,878 - INFO - Found working device: Réseau de microphones (Technolo
+2025-01-07 12:17:37,057 - INFO - Found working device: Pilote de capture audio principal
+2025-01-07 12:17:37,235 - INFO - Found working device: Microphone sur casque (Jabra EVOLVE 30 II)
+2025-01-07 12:17:37,334 - INFO - Found working device: Mixage stéréo (Realtek(R) Audio)
+2025-01-07 12:17:37,560 - INFO - Found working device: Réseau de microphones (Technologie Intel® Smart Sound pour microphones numériques)
+2025-01-07 12:17:37,566 - DEBUG - Skipping device 19: [Errno -9997] Invalid sample rate
+2025-01-07 12:17:37,574 - DEBUG - Skipping device 20: [Errno -9997] Invalid sample rate
+2025-01-07 12:17:37,574 - DEBUG - Skipping device 21: [Errno -9997] Invalid sample rate
+2025-01-07 12:17:37,574 - DEBUG - Skipping device 22: [Errno -9999] Unanticipated host error
+2025-01-07 12:17:37,574 - DEBUG - Skipping device 23: [Errno -9999] Unanticipated host error
+2025-01-07 12:17:37,574 - DEBUG - Skipping device 24: [Errno -9999] Unanticipated host error
+2025-01-07 12:17:37,574 - DEBUG - Skipping device 27: [Errno -9999] Unanticipated host error
+2025-01-07 12:17:37,574 - DEBUG - Skipping device 31: [Errno -9999] Unanticipated host error
+2025-01-07 12:17:37,574 - DEBUG - Skipping device 32: [Errno -9999] Unanticipated host error
+2025-01-07 12:17:37,574 - DEBUG - Skipping device 33: [Errno -9999] Unanticipated host error
+2025-01-07 12:17:37,582 - DEBUG - Skipping device 35: [Errno -9999] Unanticipated host error
+2025-01-07 12:17:37,583 - DEBUG - Skipping device 38: [Errno -9999] Unanticipated host error
+2025-01-07 12:17:37,583 - DEBUG - Skipping device 39: [Errno -9999] Unanticipated host error
+2025-01-07 12:17:37,583 - DEBUG - Skipping device 42: [Errno -9999] Unanticipated host error
+2025-01-07 12:17:37,583 - DEBUG - Skipping device 43: [Errno -9999] Unanticipated host error
+2025-01-07 12:17:37,583 - DEBUG - Skipping device 44: [Errno -9999] Unanticipated host error
+2025-01-07 12:17:37,583 - DEBUG - Skipping device 45: [Errno -9999] Unanticipated host error
+2025-01-07 12:17:37,583 - INFO - Found 8 working microphone(s)
+2025-01-07 12:17:37,674 - INFO - Scanning for working audio output devices...
+2025-01-07 12:17:37,674 - INFO - Default output device: Casque pour téléphone (Jabra EV
+2025-01-07 12:17:37,750 - INFO - Default output device working
+2025-01-07 12:17:37,832 - INFO - Found working output device: Mappeur de sons Microsoft - Output
+2025-01-07 12:17:37,964 - INFO - Found working output device: Haut-parleurs (Realtek(R) Audio
+2025-01-07 12:17:40,008 - INFO - Found working output device: Casque (Oculus Virtual Audio De
+2025-01-07 12:17:40,032 - INFO - Found working output device: Périphérique audio principal
+2025-01-07 12:17:40,048 - INFO - Found working output device: Casque pour téléphone (Jabra EVOLVE 30 II)
+2025-01-07 12:17:40,065 - INFO - Found working output device: Haut-parleurs (Realtek(R) Audio)
+2025-01-07 12:17:40,082 - INFO - Found working output device: Casque (Oculus Virtual Audio Device)
+2025-01-07 12:17:40,091 - DEBUG - Skipping output device 16: [Errno -9997] Invalid sample rate
+2025-01-07 12:17:40,098 - DEBUG - Skipping output device 17: [Errno -9997] Invalid sample rate
+2025-01-07 12:17:40,131 - DEBUG - Skipping output device 18: [Errno -9997] Invalid sample rate
+2025-01-07 12:17:40,131 - DEBUG - Skipping output device 25: [Errno -9999] Unanticipated host error
+2025-01-07 12:17:40,131 - DEBUG - Skipping output device 26: [Errno -9999] Unanticipated host error
+2025-01-07 12:17:40,131 - DEBUG - Skipping output device 28: [Errno -9999] Unanticipated host error
+2025-01-07 12:17:40,131 - DEBUG - Skipping output device 29: [Errno -9999] Unanticipated host error
+2025-01-07 12:17:40,131 - DEBUG - Skipping output device 30: [Errno -9999] Unanticipated host error
+2025-01-07 12:17:40,131 - DEBUG - Skipping output device 34: [Errno -9999] Unanticipated host error
+2025-01-07 12:17:40,131 - DEBUG - Skipping output device 36: [Errno -9999] Unanticipated host error
+2025-01-07 12:17:40,131 - DEBUG - Skipping output device 37: [Errno -9999] Unanticipated host error
+2025-01-07 12:17:40,131 - DEBUG - Skipping output device 40: [Errno -9999] Unanticipated host error
+2025-01-07 12:17:40,131 - DEBUG - Skipping output device 41: [Errno -9999] Unanticipated host error
+2025-01-07 12:17:40,131 - INFO - Found 8 working output device(s)
